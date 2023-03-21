@@ -1,6 +1,10 @@
 # dsx_planner
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+[![DOI](https://zenodo.org/badge/617029392.svg)](https://zenodo.org/badge/latestdoi/617029392)
+
+
+
 ## Introduction
 This is a basic planning tool for previewing dynamic stereographic x-ray experiments.
 
