@@ -1,0 +1,13 @@
+4
+4
+femur_r
+1
+femur_l
+1
+tibia_r
+1
+tibia_l
+1
+./config/
+./obj/
+./csv/
